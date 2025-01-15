@@ -1,0 +1,2 @@
+Pillow==11.1.0
+pyguetzli==1.0.17
